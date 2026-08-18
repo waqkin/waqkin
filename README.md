@@ -1,4 +1,4 @@
-# Hi, I'm waqkin 👋
+# Hi, I'm Emir Karabulut - WaqkiN 👋
 
 ### 🛡️ Cyber Security Enthusiast & Developer
 
