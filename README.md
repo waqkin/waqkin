@@ -5,7 +5,7 @@
 <br/><br/>
 
 <a href="https://emirkarabulut.com"><img src="https://img.shields.io/badge/emirkarabulut.com-0d1117?style=for-the-badge&logo=googlechrome&logoColor=A78BFA" alt="Website" /></a>
-<a href="https://www.linkedin.com/in/emir-karabulut-214587263/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/emrkrblt/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
 <a href="https://x.com/emrkrblt"><img src="https://img.shields.io/badge/@emrkrblt-0d1117?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
 <a href="https://www.cybersectr.org"><img src="https://img.shields.io/badge/Cybersectr-0d1117?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" alt="Cybersectr" /></a>
 <a href="mailto:emrkrblt@icloud.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=maildotru&logoColor=A78BFA" alt="Email" /></a>
